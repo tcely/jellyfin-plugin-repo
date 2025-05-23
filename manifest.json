@@ -37,9 +37,9 @@
                 "version": "1.0.3.11",
                 "changelog": "#120 tcely: match image for specific YouTube ID\n",
                 "targetAbi": "10.9.1.0",
-                "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.10-1-gd3c2d1d-1-g1907b3c-1-g8d6cf2b-1-g2abf072-6-g97a7200-1-g1b3abf8-2-g5a43291-1-gcc5a238-4-g2f97946/YoutubeMetadata-1.0.3.10-1-gd3c2d1d-1-g1907b3c-1-g8d6cf2b-1-g2abf072-6-g97a7200-1-g1b3abf8-2-g5a43291-1-gcc5a238-4-g2f97946.zip",
-                "checksum": "53cbea3962614c10b680a2e2df5f05e2",
-                "timestamp": "2025-01-26T21:19:00Z"
+                "sourceUrl": "https://github.com/ankenyr/jellyfin-youtube-metadata-plugin/releases/download/1.0.3.10-1-gd3c2d1d-1-g1907b3c-1-g8d6cf2b-1-g2abf072-6-g97a7200-1-g1b3abf8-2-g5a43291-1-gcc5a238-4-g2f97946-3-g0d1ea0b-1-g4d17e66-1-g2ed1d64-1-g531020d-3-g2657c14-1-g5040336/youtube-metadata_1.0.3.12.zip",
+                "checksum": "f23a6d1a76c1c390e4f9f2903fa7460f",
+                "timestamp": "2025-05-23T10:50:33Z"
             },
             {
                 "version": "1.0.3.12",
